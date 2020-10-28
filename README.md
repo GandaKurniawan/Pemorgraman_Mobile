@@ -2,7 +2,7 @@
 Pemrograman Mobile
 
 
-Combe Merupakan Aplikasi Pemerintahan Daerah Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan di Kabupaten Banyuwangi
+Combe Merupakan Aplikasi Pemerintahan Daerah atau Pelayanan Masyarakat Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan di Kabupaten Banyuwangi
 
 Kelompok 16 :
 Ganda Kurniawan 182410102051
