@@ -18,11 +18,11 @@ class _BodyState extends State<Body> {
       "image": "assets/image/ilustrasi1.png",
     },
     {
-      "text": "Yuk, Laporin Jika Ada Keluh Kesah",
+      "text": "Yuk, Laporin Keluhan Ke Aplikasi COMBE",
       "image": "assets/image/Ilustrasi2.png",
     },
     {
-      "text": "Kami Siap Melayanimu",
+      "text": "Kami Siap Melayani Anda",
       "image": "assets/image/Animasi3.png",
     }
   ];
