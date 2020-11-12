@@ -5,6 +5,11 @@ Pemrograman Mobile
 SDGS 16
 Comby (Complaint Banyuwangi) Merupakan Aplikasi Pemerintahan Daerah atau Pelayanan Masyarakat Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan Infrastruktur, Sosial, Pelayanan dll di Kabupaten Banyuwangi
 
+1. Halaman Awal 
+2. Halaman Login 
+3. Halaman Lupa Password
+4. Halaman Berhasil Login
+
 Kelompok 16 : (Ganda Kurniawan 182410102051) (Arinda Vika Nur Hanifah 182410102005) (Alvira Malinda 182410102011)
 
 ## Getting Started
