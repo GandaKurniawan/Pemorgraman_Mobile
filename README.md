@@ -1,9 +1,9 @@
-# combe_app
+# Comby_app
 
 Pemrograman Mobile
 
 SDGS 16
-Combe Merupakan Aplikasi Pemerintahan Daerah atau Pelayanan Masyarakat Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan Infrastruktur, Sosial, Pelayanan dll di Kabupaten Banyuwangi
+Comby (Complaint Banyuwangi) Merupakan Aplikasi Pemerintahan Daerah atau Pelayanan Masyarakat Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan Infrastruktur, Sosial, Pelayanan dll di Kabupaten Banyuwangi
 
 Kelompok 16 : (Ganda Kurniawan 182410102051) (Arinda Vika Nur Hanifah 182410102005) (Alvira Malinda 182410102011)
 
