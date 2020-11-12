@@ -17,7 +17,7 @@ class ViewContent extends StatelessWidget {
       children: <Widget>[
         Spacer(),
         Text(
-          "COMBE",
+          "COMBY",
           style: TextStyle(
             fontSize: getProportionateScreenWidth(24),
             color: kPrimaryColor,

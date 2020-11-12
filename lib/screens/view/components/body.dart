@@ -65,7 +65,7 @@ class _BodyState extends State<Body> {
                     ),
                     Spacer(flex: 2),
                     DefaultButton(
-                      text: "Started",
+                      text: "Mulai",
                       press: () {
                         Navigator.pushNamed(context, SignIn_Screen.routeName);
                       },
