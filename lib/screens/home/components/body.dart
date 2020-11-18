@@ -41,15 +41,16 @@ class Body extends StatelessWidget {
                       ),
                     ),
                   ),
-                  // Container(
-                  //   padding: EdgeInsets.all(getProportionateScreenWidth(4)),
-                  //   height: getProportionateScreenWidth(22),
-                  //   width: getProportionateScreenWidth(22),
-                  //   decoration: BoxDecoration(
-                  //     color: kSecondaryColor.withOpacity(0.1),
-                  //     shape: BoxShape.circle,
-                  //   ),
-                  // ),
+                  Container(
+                    padding: EdgeInsets.all(getProportionateScreenWidth(4)),
+                    height: getProportionateScreenWidth(22),
+                    width: getProportionateScreenWidth(22),
+                    decoration: BoxDecoration(
+                      color: kSecondaryColor.withOpacity(0.1),
+                      borderRadius: BorderRadius.circular(10),
+                      shape: BoxShape.circle,
+                    ),
+                  ),
                 ],
               ),
             )
