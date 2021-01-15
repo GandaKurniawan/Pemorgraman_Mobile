@@ -3,12 +3,8 @@
 Pemrograman Mobile
 
 SDGS 16
-Comby (Complaint Banyuwangi) Merupakan Aplikasi Pemerintahan Daerah atau Pelayanan Masyarakat Kabupaten Banyuwangi Untuk Menangani Segala Permasalahan dan Keluhan Infrastruktur, Sosial, Pelayanan dll di Kabupaten Banyuwangi
-
-1. Halaman Awal 
-2. Halaman Login 
-3. Halaman Lupa Password
-4. Halaman Berhasil Login
+Aplikasi  COMBY ( Complaint Banyuwangi ) merupakan aplikasi pemerintahan pemerintahan daerah atau pelayanan masyarakat kebupaten banyuwnagi untuk menangani segala permasalahan dan keluhan inrastruktur, sosial, pelayanan dll. aplikasi comby ini emiliki 2 user yaitu pemerintahan kabupaten banyuwangi sebagai admin dan masyarkat banyuwangi sebagai pengguna aplikasi. Selain itu setiap user memiliki akses ke aplikasi yang berbeda, kalau admin dapat mengakses semua di aplikasi sedangkan pengguna memiliki batasan terhadap aplikasi.
+Sistem ini berfungsi untuk memudahkan masyarakat banyuwangi mengajukan complaint tentang pelayanan pemerintahan seperti kesehatan , kemiskinan, infrakstruktur, kejahatan dan informasi kerusakan fasilitas pemerintahan. Pengguna dapat mengirikan keluhannya lalu pihak admin akan menanggapi complaint yang telah di ajukan pengguna. Di sini pemeirntah dapat mudah mendapatkan informasi dari masyarakat, selian itu masyarakat juga mendapatkan infromasi terbaru dari pemerintahan jika terdapat bantuan di bagian informasi.
 
 Kelompok 16 : (Ganda Kurniawan 182410102051) (Arinda Vika Nur Hanifah 182410102005) (Alvira Malinda 182410102011)
 
