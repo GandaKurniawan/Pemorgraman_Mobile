@@ -27,7 +27,7 @@ class _CameraPreviewState extends State<CameraPreview> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Image Picker Example'),
+        title: Text('Ambil Gambar'),
       ),
       body: Center(
           child: _image == null

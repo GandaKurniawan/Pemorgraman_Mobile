@@ -2,6 +2,7 @@ import 'package:combe_app/constant.dart';
 import 'package:combe_app/screens/home/components/pelayanan_banner.dart';
 import 'package:combe_app/screens/home/components/search.dart';
 import 'package:combe_app/screens/home/components/section_title.dart';
+import 'package:combe_app/screens/home/components/user.dart';
 import 'package:combe_app/screens/login_succes/components/icon_btn_counter.dart';
 import 'package:combe_app/size_config.dart';
 import 'package:flutter/material.dart';
@@ -50,7 +51,7 @@ class Body extends StatelessWidget {
                 elevation: 5,
                 onPressed: () {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (content) => CameraPreview()));
+                      MaterialPageRoute(builder: (content) => UserGetData()));
                 },
                 padding: EdgeInsets.all(25),
                 shape: RoundedRectangleBorder(
@@ -72,7 +73,7 @@ class Body extends StatelessWidget {
                 elevation: 5,
                 onPressed: () {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (content) => CameraPreview()));
+                      MaterialPageRoute(builder: (content) => UserGetData()));
                 },
                 padding: EdgeInsets.all(25),
                 shape: RoundedRectangleBorder(
@@ -94,7 +95,7 @@ class Body extends StatelessWidget {
                 elevation: 5,
                 onPressed: () {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (content) => CameraPreview()));
+                      MaterialPageRoute(builder: (content) => UserGetData()));
                 },
                 padding: EdgeInsets.all(25),
                 shape: RoundedRectangleBorder(
@@ -123,6 +124,28 @@ class Body extends StatelessWidget {
                     borderRadius: BorderRadius.circular(15)),
                 color: Color(0xFF4A3298),
                 child: Text('KRIMINAL',
+                    style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold)),
+              ),
+            ),
+            SizedBox(
+              height: getProportionateScreenWidth(10),
+            ),
+            Container(
+              width: getProportionateScreenWidth(60),
+              child: RaisedButton(
+                elevation: 5,
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (content) => UserGetData()));
+                },
+                padding: EdgeInsets.all(15),
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(15)),
+                color: Color(0xFFFF4848),
+                child: Text('Camera',
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 18,
