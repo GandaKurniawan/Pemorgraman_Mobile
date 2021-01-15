@@ -28,8 +28,8 @@ const String kInvalidEmailError = "Email Anda Tidak Valid";
 const String kPassNullError = "Masukkan Password Anda";
 const String kShortPassError = "Password Terlalu Mudah";
 const String kMatchPassError = "Password Tidak Sama";
-const String kNamelNullError = "Please Enter your name";
-const String kPhoneNumberNullError = "Please Enter your phone number";
+const String kNamelNullError = "Masukkan Nama Anda";
+const String kPhoneNumberNullError = "Masukkan Nomor Telephone";
 const String kAddressNullError = "Please Enter your address";
 
 // final otpInputDecoration = InputDecoration(
