@@ -139,7 +139,7 @@ class Body extends StatelessWidget {
                 elevation: 5,
                 onPressed: () {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (content) => UserGetData()));
+                      MaterialPageRoute(builder: (content) => CameraPreview()));
                 },
                 padding: EdgeInsets.all(15),
                 shape: RoundedRectangleBorder(
